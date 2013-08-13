@@ -1,0 +1,6 @@
+[
+	// add this to  Preference->Key Bindings - User
+    {   
+        "keys": ["f5"], "command": "insert_date"   
+    }  
+]
